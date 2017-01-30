@@ -1,0 +1,36 @@
+comum.report.path=C\:\\relatorios\\diaria\\
+diaria.conf.email.aplicacao=diarias@defensoria.ms.gov.br
+diaria.conf.email.password=dpge
+comum.report.rodape=Defensoria P\u00FAblica do Estado de Mato Grosso do Sul - Parque dos Poderes - Av. Des. Jos\u00E9 Nunes da Cunha, bloco IV - 79.031-310 | Campo Grande
+processos.normalizacaoNomeCidades=419
+comum.layout.menu.auditoria=Acesso Candidato 
+comum.consultarAcesso.title=Consultar Acesso de Candidatos
+comum.layout.userbar.usuario=usuario Logado
+
+javax.faces.validator.cpf										= O valor preenchido  n\u00E3o \u00E9 um CPF v\u00E1lido. Exemplo\: 000.000.000-00
+javax.faces.validator.email										= O valor preenchido  n\u00E3o \u00E9 um e-mail v\u00E1lido. Exemplo\: empresa@empresa.com
+javax.faces.validator.telefone									= O valor preenchido  n\u00E3o \u00E9 um telefone v\u00E1lido. Exemplo\: (67) 0000-0000
+comum.layout.userbar.sair					=Sair
+comum.layout.userbar.pesquisar				=Pesquisar
+comum.layout.userbar.pesquisar.title		=Busca avançada
+comum.layout.userbar.sair.title				=Sair do sistema
+comum.global.msg.info.sucesso				= Opera\u00E7\u00E3o realizada com sucesso.
+comum.global.acao.editar=Editar
+comum.global.acao.visualizar=Visualizar
+comum.global.acao.remover=Excluir
+comum.field.cod.label=C\u00F3d
+comum.info.erro.relatorio=N\u00E3o \u00E9 poss\u00EDvel gerar o relat\u00F3rio
+comum.global.acoes.excluir.confirm=Deseja mesmo excluir este registro ?
+
+comum.global.botao.voltar=Voltar
+comum.global.botao.cancelar=Cancelar
+comum.global.botao.salvar= Salvar
+
+EnumLogicoAtivoInativo.ATIVO = Ativo
+EnumLogicoAtivoInativo.INATIVO = Inativo
+
+processos.layout.label.usuario=Usuario
+processos.layout.sistema=Processos
+
+
+
